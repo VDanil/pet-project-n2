@@ -1,0 +1,5 @@
+admin@test.com
+12345678Admin!
+
+cashier@test.com
+12345678Cashier!
